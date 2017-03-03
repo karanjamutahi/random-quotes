@@ -1,11 +1,17 @@
 #Random Quote Generator
 
+> "A day without sunshine is like
+> you know , night. "
+        ~Steve Martin
+
 ##Built for FCC
 
-It's supposed to fulfill the following user stories:
+To be hosted on Github pages, submitted on Codepen.io
 
-*Generate a random quote at the click of a button
+## Objectives
 
-*Tweet the quote at the click of another button.
+* Generate a random quote at the click of a button
+
+* Tweet the quote at the click of another button.
 
 **Here Goes**

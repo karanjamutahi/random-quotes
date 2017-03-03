@@ -1,4 +1,9 @@
 body{
-background-color: black;
+    background-color: #fff;
+background-image: url(images/redTree.jpg);
 
+}
+blockquote{
+    margin-left: auto;
+    margin-right: auto;
 }
