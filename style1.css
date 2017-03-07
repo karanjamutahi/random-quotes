@@ -1,0 +1,30 @@
+blockquote{
+    border-color: black;
+    }
+
+p{
+    font-family: 'Indie Flower', cursive;
+    font-size: 27px;
+}
+    #rowOne{
+        margin-top: 175px;
+    }
+
+html, body{
+    height:100vh;
+}
+
+@media (max-width:500px){
+    p{
+        font-size: 16px;
+    }
+
+}
+
+footer#chini{
+    position:absolute;
+    font-size:19px;
+    bottom: 0;
+    width: 100vw;
+    font-family: 'Helvetica Neue', sans-serif;
+    }

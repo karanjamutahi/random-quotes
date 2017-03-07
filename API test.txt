@@ -1,0 +1,4 @@
+https://andruxnet-random-famous-quotes.p.mashape.com/?cat=movies/?X-Mashape-Key=O3hVvim9WimshDpIwCcBZFg66dzQp1N9ca5jsnNlNTvROsp7tS/Content-Type=application\/x-www-form-urlencoded/Accept=application\/json
+
+
+Trying to convert the API at https://market.mashape.com/andruxnet/random-famous-quotes into a jquery getJSON request.
