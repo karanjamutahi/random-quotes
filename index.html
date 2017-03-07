@@ -9,21 +9,50 @@
    <meta name="keywords" content="Random, Generator, Quotes, Karanja, Mutahi ">
    <meta name="description" content="Generate Random quotes ">   
     
+       <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+        <script type="text/javascript"  src='goodStuff.js'></script>
 
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-       <!--  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css"> will revert-->
-        <link rel='stylesheet' type="text/css" href='style.css'>
+         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css"> 
+        <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+       <link rel='stylesheet' type="text/css" href='style1.css'> 
         
-<!-- <script src=' '> -->
+        
 </head>
  
-<body>
+<body class = "black">
 <div class="container">
-    <div class = "quotebox center-block" id = "style-box">
+   
+ <div class="row" id ='rowOne'>
+     <div class="col-lg-2 col xs-2 col-md-2">
 
- <p id ="quote" class="text-center" >Quote Goes Here. Respond!!</p>
+     </div>
+     <div class="col-lg-8 col xs -8 col-md -8" id = "quotediv">
+
+         <div class="card yellow ">
+             <div class="card-content black-text">
+         <!-- content goes here -->
+         <blockquote>
+         <p id = "quote-text">Click the button to generate a random quote.</p>
+         <footer id = "author">Karanja Mutahi</footer>
+         </blockquote>
+         </div>
+         </div>
+        
+         
+     </div>
+<div class="col-lg -2 col-xs-2 col-md-2">
 
  </div>
+ 
+</div>
+<div class="row text-center">
+    <div class="col-xs-12 col lg-12 col-md-12">
+ <button type="button" id="getQuote" class = "btn yellow btn-large black-text text-center">Another One!</button>
  </div>
+ </div>
+ </div>
+
+ <footer id = "chini" class="yellow black-text text-center">Made with &hearts; by Karanja Mutahi</footer>
 </body>
 </html>
